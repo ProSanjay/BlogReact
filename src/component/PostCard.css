@@ -1,0 +1,9 @@
+.CardImg{
+    width: 100%;
+    height: 230px !important;
+    object-fit: cover;
+}
+
+.headingForCard{
+    overflow-wrap: break-word;
+}
